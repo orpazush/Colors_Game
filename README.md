@@ -13,7 +13,7 @@ An actual game you can play on the terminal.
         Keep choosing colors until the end of the game.
 
     End of game
-            winning!trophy all the board is of the same color.
+            winning!🎖️ all the board is of the same color.
             Losing..👎🏼 you passed the maximum amounts of turns/moves.
 
     Notes -
